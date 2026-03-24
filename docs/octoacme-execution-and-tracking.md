@@ -38,3 +38,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+For role assignments during execution and tracking activities see [Role Interactions & RACI](./octoacme-role-interactions-and-raci.md).
