@@ -16,9 +16,16 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Tech Lead / Architect: sets technical direction, coaches developers, manages technical risk.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- UX Designer: designs user experiences, produces wireframes and prototypes.
+- Business Analyst: gathers requirements, bridges stakeholders and the delivery team.
+- QA Analyst: develops and executes test plans; owns the quality sign-off gate.
+- Customer Support / Success: represents the voice of the customer; provides post-launch feedback.
 - Stakeholders: provide inputs and approvals.
+
+For full role definitions, responsibilities, and cross-role interactions see [Roles & Personas](./octoacme-roles-and-personas.md).
+For activity-to-role ownership mapping see [Role Interactions & RACI](./octoacme-role-interactions-and-raci.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -26,6 +33,8 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- [Project Kickoff Checklist](./octoacme-project-kickoff-checklist.md)
+- [Release Readiness Checklist](./octoacme-release-readiness-checklist.md)
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
